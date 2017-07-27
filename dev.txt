@@ -1,0 +1,23 @@
+OBJECT Codeunit 62013 nic
+{
+  OBJECT-PROPERTIES
+  {
+    Date=17/07/25;
+    Time=11:38:21 AM;
+    Modified=Yes;
+    Version List=;
+  }
+  PROPERTIES
+  {
+    OnRun=BEGIN
+          END;
+
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+
